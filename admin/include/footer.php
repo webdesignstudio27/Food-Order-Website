@@ -1,0 +1,1 @@
+ <footer class="footer" style="text-align: center;">Web Design Studio © 2023 - Online Food Ordering System Developer - <a href="https://www.instagram.com/webdesign_studio_">Suvedha Sivakumar</a> </footer>
